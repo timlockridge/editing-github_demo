@@ -1,5 +1,6 @@
 Tim Lockridge
 March 4, 2015
+In-class exercise
 
 ## Modifiers: Limiting Words:
 
